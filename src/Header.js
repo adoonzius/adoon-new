@@ -23,7 +23,7 @@ function Header() {
                 <SearchIcon />
             </div>
             <div className='header__right'>
-                <p>Become a promoter</p>
+                <p>this is a test website</p>
                 <LanguageIcon />
                  <ExpandMoreIcon />
                  <Avatar />
